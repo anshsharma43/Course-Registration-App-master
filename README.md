@@ -25,8 +25,8 @@ NOTE FOR INSTALLATION:
 
 Student Login:
 
-reg number:123456
+1) reg number:123456
 
-password:Test@123
+2) password:Test@123
 
-pincode:122018
+3) pincode:122018
