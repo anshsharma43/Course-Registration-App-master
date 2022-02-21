@@ -1,7 +1,4 @@
 # Online-Course-Registration-System-master
-Course Registration App in PHP and MySQL
-
-As a part of Motorq Application Coding Round - Course Slot Booking System  - Phase B (Assignment Round)
 
 WELCOME TO COURSE REGISTRATION SYSTEM by ANSH SHARMA
 Course Registration App in PHP and MySQL
