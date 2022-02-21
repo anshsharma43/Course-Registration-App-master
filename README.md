@@ -8,23 +8,22 @@ Course Registration App in PHP and MySQL
 
 NOTE FOR INSTALLATION: 
 
+1) Please download and install XAMPP server.
 
-A>Please download and install XAMPP server.
+2) place the whole folder into C:\xampp\htdocs i.e. root folder.  
 
-B>place the whole folder into C:\xampp\htdocs i.e. root folder.  
+3) Launch xampp and start apache and mysql.
 
-C>Launch xampp and start apache and mysql.
+4) Launch "localhost/phpmyadmin" in any browser.
 
-D>Launch "localhost/phpmyadmin" in any browser.
+5) create a new database with name onlinecourse and then select import and upload onlinecourse.sql file from the directory.
 
-E>create a new database with name onlinecourse and then select import and upload onlinecourse.sql file from the directory.
-
-F>Launch localhost/Online-Course-Registration-System-master on any browser
-
+6) Launch localhost/Online-Course-Registration-System-master on any browser
 
 
 
-Student Login 
+
+Student Login:
 
 reg number:123456
 
